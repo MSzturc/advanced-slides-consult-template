@@ -14,6 +14,14 @@ A theme to create professional presentations with <a href="https://github.com/MS
 <a href="https://mszturc.github.io/obsidian-advanced-slides/examples/consult/">Demo</a>
 </div>
 
+<div align="center">
+
+If you like the consult theme and want to support my work, I would appreciate a <a href="https://github.com/sponsors/MSzturc">donation</a>
+</div>
+
+
+
+
 
 --- 
 <div align="center">

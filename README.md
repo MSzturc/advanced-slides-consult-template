@@ -11,7 +11,7 @@ A theme to create professional presentations with <a href="https://github.com/MS
 
 <div align="center">
 
-<a href="https://mszturc.github.io/obsidian-advanced-slides/examples/consult/">Demo</a>
+<a href="https://htmlpreview.github.io/?https://github.com/MSzturc/obsidian-advanced-slides/blob/28b4e14517132b7e13da341061d83fd7307ff8a0/docs/content/examples/consult/index.html#/">Demo</a>
 </div>
 
 <div align="center">
